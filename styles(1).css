@@ -1,0 +1,19 @@
+#top {
+    font-size: 36px;
+    color: blue;
+}
+#middle {
+    font-size: 24px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#bottom {
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.name {
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: crimson;
+}
+<!-- # means id in the html file -->
+<!-- . means class in the html file -->
